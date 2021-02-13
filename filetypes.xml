@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="tnw" type="PLAIN_TEXT" />
       <mapping ext="tikzs" type="PLAIN_TEXT" />
+      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="anw" type="XML" />
       <removed_mapping ext="txt" approved="true" type="requirements.txt" />
       <removed_mapping ext="txt" approved="true" type="requirements.txt" />
